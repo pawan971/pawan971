@@ -7,12 +7,6 @@
 I’m a **Security Researcher** and **Cybersecurity Enthusiast** with 3 years of professional experience in the field and a total of 4 years in tech. My journey is driven by a passion for defending against cyber threats and finding innovative solutions in the ever-evolving landscape of cybersecurity.
 
 
-🎨 **Outside of Tech:**
-When I’m not diving into cybersecurity challenges, you’ll find me:
-- ⚽ Playing all sorts of sports, especially badminton & Football.
-- 🏞️ Exploring the great outdoors through hiking adventures.
-- ✏️ Channeling my creativity through sketching and drawing.
-
 📚 **Blog Posts:**
 - [**regreSSHion (CVE-2024-6387): Threat Report**](https://me.pawankpradhan.com/blogs/regresshion-cve-2024-6387-threat-report)
 - [**SocGholish : Threat Report**](https://me.pawankpradhan.com/blogs/socgholish-threat-report)
