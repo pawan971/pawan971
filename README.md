@@ -10,7 +10,7 @@ I’m a **Security Researcher** and **Cybersecurity Enthusiast** with 3 years of
 
 🎨 **Outside of Tech:**
 When I’m not diving into cybersecurity challenges, you’ll find me:
-- ⚽ Competing in sports championships.
+- ⚽ Playing all sorts of sports, especially badminton & Football.
 - 🏞️ Exploring the great outdoors through hiking adventures.
 - ✏️ Channeling my creativity through sketching and drawing.
 
