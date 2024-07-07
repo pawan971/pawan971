@@ -22,7 +22,7 @@ When I’m not diving into cybersecurity challenges, you’ll find me:
 - **[LinkedIn](https://www.linkedin.com/in/pawankpradhan/)** | **[Medium](https://medium.com/@p.pradhan1997)**
 - **[Book a free session](https://booking.setmore.com/scheduleappointment/9eb93039-27c9-4322-830b-e6dcc94b2b27)** to learn more about my work and experiences!
 
-Feel free to reach out or explore my projects and blogs. Let’s make the digital world a safer place together! 🚀🔐
+Feel free to reach out or explore my projects and blogs. 🚀🔐
 ---
 ## 📈 GitHub Stats
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-pradhan&theme=radical)
