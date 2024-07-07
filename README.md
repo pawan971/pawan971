@@ -7,16 +7,6 @@
 
 I’m a **Security Researcher** and **Cybersecurity Enthusiast** with 3 years of professional experience in the field and a total of 4 years in tech. My journey is driven by a passion for defending against cyber threats and finding innovative solutions in the ever-evolving landscape of cybersecurity.
 
-🔍 **Expertise:**
-- **Incident Response:** Swift and effective threat detection and resolution.
-- **Threat Hunting:** Proactive identification of potential security risks.
-- **Cloud Security:** Ensuring robust defenses in cloud environments.
-- **AI & Digital Literacy:** Researching AI systems and contributing to the University of Maryland’s Digital Literacy Project to enhance digital accessibility.
-
-🎯 **Key Achievements:**
-- Led research for a $6M federally-funded project to improve digital literacy.
-- Scaled SOC operations from 6 to 16 clients, enhancing threat management and incident response.
-- Developed and refined Incident Response playbooks and detection rules for SIEM and EDR tools.
 
 🎨 **Outside of Tech:**
 When I’m not diving into cybersecurity challenges, you’ll find me:
@@ -45,8 +35,6 @@ When I’m not diving into cybersecurity challenges, you’ll find me:
 - Microsoft Certified: Cybersecurity Architect Expert
 - Microsoft Certified: Security Operations Analyst Associate
 - Microsoft Certified: Azure Security Engineer Associate
-- API Security Fundamental
-- ISC2: Certified in Cybersecurity (CC)
 
 
 ## 📈 GitHub Stats
